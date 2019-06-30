@@ -14,9 +14,6 @@ p {
       font-family: verdana;
       font-size: 14px;
 }
-a:hover {
-      color: hotpink;
-}
 a:link {
       color: darkblue;
       font-family:verdana;
@@ -24,5 +21,11 @@ a:link {
 }
 a:visited {
       color: black;
+}
+a:hover {
+      color: hotpink;
+}
+a:active {
+  color: blue;
 }
 
